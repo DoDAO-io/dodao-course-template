@@ -3,8 +3,8 @@ This is the course header. This will be added on top of every page. Go to [DoDAO
 
  ---
 
- ## Regenerative Finance
- This course talks about Regenerative Finance
+ ## DoDAO Course Template
+ This is a course template
 
  
  ## Description

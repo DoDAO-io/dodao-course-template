@@ -1,10 +1,9 @@
-title: Regenerative Finance
-key: regenerative-finance
+title: DoDAO Course Template
+key: dodao-course-template
 summary: |
-  This course talks about Regenerative Finance
+  This is a course template
 highlights:
   - Introduction
-  - Toucan Protocol
 publishStatus: Draft
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/CourseIcons/audit_and_monitoring.png
